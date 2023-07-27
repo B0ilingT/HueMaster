@@ -1,0 +1,1 @@
+This is a simple chrome extension that allows users to see the colours of elements on a webpage
